@@ -1,6 +1,6 @@
-package com.factory.abstr;
+package com.pattern.V1factory.abstr;
 
-import com.factory.Car;
+import com.pattern.V1factory.Car;
 
 /**
  * 抽象工厂

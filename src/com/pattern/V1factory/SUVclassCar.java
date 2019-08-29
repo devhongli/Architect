@@ -1,4 +1,4 @@
-package com.factory;
+package com.pattern.V1factory;
 
 public class SUVclassCar implements Car {
     @Override

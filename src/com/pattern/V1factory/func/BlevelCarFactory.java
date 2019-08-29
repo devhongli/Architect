@@ -1,7 +1,7 @@
-package com.factory.func;
+package com.pattern.V1factory.func;
 
-import com.factory.BlevelCar;
-import com.factory.Car;
+import com.pattern.V1factory.BlevelCar;
+import com.pattern.V1factory.Car;
 
 public class BlevelCarFactory implements Factory {
 

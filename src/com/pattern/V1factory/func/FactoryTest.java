@@ -1,6 +1,4 @@
-package com.factory.func;
-
-import com.factory.simple.SimpleFactory;
+package com.pattern.V1factory.func;
 
 public class FactoryTest {
 

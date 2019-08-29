@@ -1,7 +1,7 @@
-package com.factory.func;
+package com.pattern.V1factory.func;
 
-import com.factory.Car;
-import com.factory.SUVclassCar;
+import com.pattern.V1factory.Car;
+import com.pattern.V1factory.SUVclassCar;
 
 public class SUVclassCarFactory implements Factory {
 

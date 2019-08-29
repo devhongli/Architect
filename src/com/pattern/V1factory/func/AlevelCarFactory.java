@@ -1,7 +1,7 @@
-package com.factory.func;
+package com.pattern.V1factory.func;
 
-import com.factory.AlvevlCar;
-import com.factory.Car;
+import com.pattern.V1factory.AlvevlCar;
+import com.pattern.V1factory.Car;
 
 /**
  * @author Administrator

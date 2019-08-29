@@ -1,6 +1,6 @@
-package com.factory.func;
+package com.pattern.V1factory.func;
 
-import com.factory.Car;
+import com.pattern.V1factory.Car;
 
 /**
  * 工厂模型

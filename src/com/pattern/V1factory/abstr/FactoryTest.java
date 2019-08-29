@@ -1,7 +1,4 @@
-package com.factory.abstr;
-
-import com.factory.func.AlevelCarFactory;
-import com.factory.func.Factory;
+package com.pattern.V1factory.abstr;
 
 public class FactoryTest {
 

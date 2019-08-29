@@ -1,7 +1,4 @@
-package com.factory.simple;
-
-import com.factory.BlevelCar;
-import com.factory.Car;
+package com.pattern.V1factory.simple;
 
 public class FactoryTest {
 

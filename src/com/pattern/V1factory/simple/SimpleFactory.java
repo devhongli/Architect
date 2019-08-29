@@ -1,9 +1,9 @@
-package com.factory.simple;
+package com.pattern.V1factory.simple;
 
-import com.factory.AlvevlCar;
-import com.factory.BlevelCar;
-import com.factory.Car;
-import com.factory.SUVclassCar;
+import com.pattern.V1factory.Car;
+import com.pattern.V1factory.AlvevlCar;
+import com.pattern.V1factory.BlevelCar;
+import com.pattern.V1factory.SUVclassCar;
 
 /**
  * 简单工厂
