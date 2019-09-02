@@ -6,10 +6,11 @@ import com.pattern.V1factory.BlevelCar;
 import com.pattern.V1factory.SUVclassCar;
 
 /**
- * 一个工厂，不同的流水线产品
+ * 一个集团工厂，不同的子工厂生产产品 ，每个子工厂生产自己的产品
  * @author Administrator
  */
-public class CarFactory extends AbstractFactory{
+public class GQHondaCarFactory extends AbstractFactory{
+    
     @Override
     public Car getAlevelCar() {
         return new AlvevlCar();

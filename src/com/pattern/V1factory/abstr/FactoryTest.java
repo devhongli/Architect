@@ -15,7 +15,10 @@ public class FactoryTest {
 
         //抽象工厂，全部统一new一个方法，然后选择。
         //优点：对外统一接口 内部修改方便不影响外层代码
-        CarFactory factory = new CarFactory();
+        DFHondaCarFactory factory = new DFHondaCarFactory();
         System.out.println(factory.getSUVclassCar());
+
+        GQHondaCarFactory factorys = new GQHondaCarFactory();
+        System.out.println(factorys.getSUVclassCar());
     }
 }
